@@ -23,6 +23,11 @@ Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 
+```
+NAME : VARSHINI S A
+REGISTER NUMBER : 212222100059
+```
+
 Find the attackers ip address using ifconfig
 ## OUTPUT:
 ![Screenshot 2024-04-29 204511](https://github.com/VARSHINI22009118/Compromising-windows-using-Metasploit/assets/119401150/08197f7d-0ab9-4a3b-8df9-c7c70e83e41d)
